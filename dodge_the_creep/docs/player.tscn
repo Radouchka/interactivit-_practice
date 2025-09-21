@@ -1,0 +1,4 @@
+[gd_scene load_steps=0 format=3 uid="uid://brdvqg7v0pkrj"]
+
+[node name="Area2D" type="Area2D"]
+metadata/_edit_group_ = true
